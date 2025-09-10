@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfólio-5091CD?style=for-the-badge&logo==white=https://portfolio.com/)](https://github.com/reiarthurpng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://portfolio.com/)](https://www.linkedin.com/in/arthur-ribeiro-16196937a)
 
-![reiArthurpng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReiArthurjpg&show_icons=true&theme=cobalt)
+![reiarthurpng's GitHub stats](https://github-readme-stats.vercel.app/api?username=reiarthurpng&show_icons=true&theme=cobalt)
 
 ## Tecnologias que eu uso no meu dia
 
